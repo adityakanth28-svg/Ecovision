@@ -1,0 +1,5 @@
+venv/
+Dataset/
+garbage_classification/
+__pycache__/
+*.pyc
