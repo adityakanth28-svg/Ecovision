@@ -22,7 +22,7 @@ AI-Powered Waste Classification Using Computer Vision
 &#x20; \</a>
 \</p>
 ---
-## 🚀 Live Demo
+## 🚀 Live Demo https://eco-lens-project.lovable.app/
 
 ### 🌐 Try EcoVision
 
