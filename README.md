@@ -44,28 +44,31 @@ AI-Powered Waste Classification Using Computer Vision
 
 ---
 
-# 📸 Screenshots
+# 📸 Screenshots 
+<img width="1887" height="902" alt="Image" src="https://github.com/user-attachments/assets/41302c6f-d26b-4769-8dd0-f1112cc623ba" />
+
+<img width="1865" height="815" alt="Image" src="https://github.com/user-attachments/assets/c3aa7011-b6ac-44a9-9757-9767d6970e0a" />
+<img width="1895" height="883" alt="Image" src="https://github.com/user-attachments/assets/cdfb0e55-0e49-49c4-a206-67b260dd5d2a" />
+<img width="1880" height="751" alt="Image" src="https://github.com/user-attachments/assets/07583829-2034-46f0-adb3-512dac586f4e" />
+
+<img width="1891" height="825" alt="Image" src="https://github.com/user-attachments/assets/f9df3f71-6c1f-4fdd-a640-00b93276b4bc" />
+<img width="1517" height="705" alt="Image" src="https://github.com/user-attachments/assets/526d7b7d-fc1e-484a-9d6a-3ab952fef6f0" />
+<img width="727" height="722" alt="Image" src="https://github.com/user-attachments/assets/1086077f-6d0c-43e3-b941-28f7e39d9dc4" />
+
+<img width="1377" height="496" alt="Image" src="https://github.com/user-attachments/assets/2aec527d-3eb1-4a5b-9161-1bcb2bb51c2b" />
 
 ## 🏠 EcoVision Homepage
-
-
+<img width="1887" height="902" alt="Image" src="https://github.com/user-attachments/assets/41302c6f-d26b-4769-8dd0-f1112cc623ba" />
 
 ## 📤 Waste Image Upload
 
 
 
 ## 🤖 AI Prediction Result
+<img width="1517" height="705" alt="Image" src="https://github.com/user-attachments/assets/526d7b7d-fc1e-484a-9d6a-3ab952fef6f0" />
 
 
 
-> **Tip:** Add your actual screenshots to a `screenshots/` folder in the repository using these filenames:
->
-> ```text
-> screenshots/
-> ├── homepage.png
-> ├── upload.png
-> └── prediction.png
-> ```
 
 ---
 
